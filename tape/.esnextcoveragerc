@@ -1,0 +1,7 @@
+{
+  "only": "src/*.js",
+  "reporters": [
+    {"outFile": "reports/coverage/coverage.json"},
+    {"formatter": "html", "outFile": "reports/coverage/coverage.html"}
+  ]
+}

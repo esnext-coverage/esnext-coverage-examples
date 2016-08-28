@@ -1,0 +1,20 @@
+{
+  "name": "esnext-coverage-example-tape",
+  "version": "0.0.0",
+  "description": "esnext-coverage usage example with tape",
+  "scripts": {
+    "test": "tape -r esnext-coverage test/*.spec.js"
+  },
+  "keywords": [
+    "example",
+    "esnext-coverage",
+    "tape"
+  ],
+  "author": "Oleg Sklyanchuk <sklyanchuk@gmail.com> (http://olegskl.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "esnext-coverage": "^0.0.1",
+    "esnext-coverage-format-html": "^0.0.1",
+    "tape": "^4.6.0"
+  }
+}
