@@ -1,0 +1,11 @@
+{
+  "spec_dir": "test",
+  "spec_files": [
+    "**/*[sS]pec.js"
+  ],
+  "helpers": [
+    "../node_modules/esnext-coverage/lib/esnext-coverage.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
