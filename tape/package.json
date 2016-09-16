@@ -13,8 +13,9 @@
   "author": "Oleg Sklyanchuk <sklyanchuk@gmail.com> (http://olegskl.com)",
   "license": "MIT",
   "devDependencies": {
-    "esnext-coverage": "^0.0.1",
-    "esnext-coverage-format-html": "^0.0.1",
+    "esnext-coverage": "^0.0.3",
+    "esnext-coverage-format-html": "^0.0.5",
+    "esnext-coverage-format-text": "^0.0.4",
     "tape": "^4.6.0"
   }
 }
